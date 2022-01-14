@@ -1,9 +1,7 @@
 .gradle
 .idea
 build
-converter/build
-generator/build
-*.iml
 /examples/_files_/
 /examples/_fileset_/
 /examples/_zip_/
+*.iml
