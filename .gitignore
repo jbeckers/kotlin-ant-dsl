@@ -1,7 +1,9 @@
-/.kobalt/
-kobaltBuild/
-/bin/
-/out/
-/.idea/
+.gradle
+.idea
+build
+converter/build
+generator/build
 *.iml
-/local.properties
+/examples/_files_/
+/examples/_fileset_/
+/examples/_zip_/
